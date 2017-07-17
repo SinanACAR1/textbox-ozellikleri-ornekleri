@@ -1,0 +1,8 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\textbox özellikleri\textbox özellikleri\bin\Debug\textbox özellikleri.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\textbox özellikleri\textbox özellikleri\bin\Debug\textbox özellikleri.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\textbox özellikleri\textbox özellikleri\obj\x86\Debug\textbox özellikleri.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\textbox özellikleri\textbox özellikleri\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\textbox özellikleri\textbox özellikleri\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\textbox özellikleri\textbox özellikleri\obj\x86\Debug\textbox özellikleri.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\textbox özellikleri\textbox özellikleri\obj\x86\Debug\textbox özellikleri.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\textbox özellikleri\textbox özellikleri\obj\x86\Debug\textbox özellikleri.pdb
